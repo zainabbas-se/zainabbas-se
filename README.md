@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zain+Abbas!;" />
 </h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/tenor.gif" />
@@ -45,21 +45,25 @@
 - I enjoy experimenting with new technologies!
 
 ---
-
-<h3 align="center">Connect with me:</h3>
+<br/>
+<h2 align="center">🌐 Connect with me 🌐</h2>
 <p align="center">
   <a href="mailto:Zain002.sdk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/zainabbas-se" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/zainabbas_se" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://instagram.com/chaudharyyzain" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<br/>
+</p>
+<br/><br/><br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
@@ -70,8 +74,7 @@
 </div>
 
 
-<br/>
-<hr/>
+<br/><br/><br/><br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -82,10 +85,6 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabbas-se&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <hr/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+for+Visiting!;" />
-</h1>
