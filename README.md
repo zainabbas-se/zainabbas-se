@@ -63,8 +63,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,sql,css,html,django,mysql,postgresql,sqlite,aws,git,linux,postman,selenium,photoshop" />
+    <img src="https://skillicons.dev/icons?i=cpp,python" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,django,wordpress,bootstrap,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux,windows,vscode,visualstudio,py,pycharm,photoshop" />
 </div>
+
+
 <br/>
 <hr/>
 
