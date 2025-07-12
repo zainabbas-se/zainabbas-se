@@ -64,14 +64,18 @@
 
 </p>
 <br/><br/><br/><br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Databases-Programming Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,django,wordpress,bootstrap,selenium" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux,windows,vscode,visualstudio,py,pycharm,photoshop" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,django,flask,wordpress,bootstrap,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux,windows,vscode,visualstudio,py,pycharm,replit,photoshop" />
+    
+    
 </div>
+
+
 
 
 <br/><br/><br/><br/>
